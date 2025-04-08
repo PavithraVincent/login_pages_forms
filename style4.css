@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(kathakali4.jpg);
+    background-size: cover;
+}
+.head h1{
+  width: 22px;
+  height: 22px;
+  box-shadow: 0 .5rem 1rem;
+  background-color: #1e525b;
+  font-family: sans-serif;
+}
+
+
+
+
